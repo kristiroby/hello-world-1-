@@ -1,2 +1,2 @@
 # hello-world
-Standard intro to Github
+I like chocolate, creatures, and climbing rocks.
